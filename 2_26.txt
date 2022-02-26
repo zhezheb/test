@@ -1,0 +1,5 @@
+﻿已启动生成…
+1>------ 已启动生成: 项目: xinxiangmu_1, 配置: Debug x64 ------
+1>test.c
+1>xinxiangmu_1.vcxproj -> C:\Users\86155\source\repos\xinxiangmu_1\x64\Debug\xinxiangmu_1.exe
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
